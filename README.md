@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Sublime Text Free Installer** — Sublime Text is a sophisticated text and code editor for Windows, macOS, and Linux, celebrated for its speed, multiple cursors, Goto Anything navigation, and the Command Palette. Works without internet access, no account required. Full offline installation.
+**💻 Sublime Text Free Installer** — Sublime Text is a sophisticated, fast text editor for code, markup, and prose. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Sublime Text
 
-Sublime Text is a sophisticated text and code editor for Windows, macOS, and Linux, celebrated for its speed, multiple cursors, Goto Anything navigation, and the Command Palette. With thousands of packages available through Package Control, Sublime Text can be extended for virtually any programming language or workflow. Its snappy performance on large files keeps it relevant despite competition from feature-heavier editors.
+Sublime Text is a sophisticated, fast text editor for code, markup, and prose. Famous for its multiple cursors, powerful command palette, Python plugin API, and instant startup — it remains a benchmark for text editor performance and extensibility after over a decade.
 
 ---
 
 ## ❌ Problem: Sublime Text is hard to access
 
-- **Commercial License** — Requires paid license for continued use after trial
-- **Extension Discovery** — Package Control browsing less curated than VS Code Marketplace
-- **LSP Setup** — Language server features require manual configuration compared to VS Code
-- **Git Integration** — Version control integration requires packages; not built-in
+- **Perpetual Trial** — Technically requires purchase but can be used indefinitely with occasional nag screen
+- **Paid License** — Full purchase required for commercial use without nag screen
+- **Competition** — VS Code is free and has a larger extension ecosystem
+- **Less Active Development** — Major features less frequently added compared to earlier versions
 
 ---
 
@@ -121,7 +121,7 @@ Sublime Text is a sophisticated text and code editor for Windows, macOS, and Lin
 
 ---
 
-**Sublime Text Free Installer** — Sublime Text is a sophisticated text and code editor for Windows, macOS, and Linux, celebrated for its speed, multiple cursors, Goto Anything navigation, and the Command Palette. Install without internet connection today!
+**Sublime Text Free Installer** — Sublime Text is a sophisticated, fast text editor for code, markup, and prose. Install without internet connection today!
 
 <div align="center">
 
